@@ -2,6 +2,8 @@
 
 This is a simple Sudoku solver implemented in ReasonML, for learning purposes.
 
+It is required to have [ReasonML](https://reasonml.github.io/docs/en/installation) installed . 
+
 # Build
 
 ```bash
