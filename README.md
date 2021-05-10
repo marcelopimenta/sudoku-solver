@@ -2,7 +2,11 @@
 
 This is a simple Sudoku solver implemented in ReasonML, for learning purposes.
 
-It is required to have [ReasonML](https://reasonml.github.io/docs/en/installation) installed . 
+# Install dependencies
+
+```bash
+npm install
+```
 
 # Build
 
